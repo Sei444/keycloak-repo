@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  keycloak-pg:
+    image: sei444/keycloak-repo:latest
+    environment:
+      - KEYCLOAK_ADMIN=keycloak
+      - KEYCLOAK_ADMIN_PASSWORD=keycloak
+      - KC_DB=postgres
+      - KC_DB_URL=jdbc:postgresql://keycloak-db/root
+      - KC_DB_USERNAME=root
+      - KC_DB_PASSWORD=toor
+    ports:
+      - "8081:8080"
+    networks:
+      - keycloak-bridge
+    entrypoint: /opt/keycloak/data/import/entrypoint.sh
+    depends_on:
+      keycloak-db:
+        condition: service_healthy
+
+  keycloak-db:
+    image: postgres:15
+    environment:
+      - POSTGRES_DB=root
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=toor
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./pg-keycloak-data:/var/lib/postgresql/data
+    networks:
+      - keycloak-bridge
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready"]
+
+  mailhog:
+    image: mailhog/mailhog
+    ports:
+      - "1025:1025"  # SMTP
+      - "8025:8025"  # Web UI
+    networks:
+      - keycloak-bridge
+
+networks:
+  keycloak-bridge:
+    driver: bridge
