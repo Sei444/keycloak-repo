@@ -1,6 +1,8 @@
+version: '3.8'
+
 services:
   keycloak-pg:
-    image: sei444/keycloak-repo:latest
+    build: .
     environment:
       - KEYCLOAK_ADMIN=keycloak
       - KEYCLOAK_ADMIN_PASSWORD=keycloak
@@ -10,6 +12,8 @@ services:
       - KC_DB_PASSWORD=toor
     ports:
       - "8081:8080"
+    volumes:
+      - ./themes:/opt/keycloak/themes
     networks:
       - keycloak-bridge
     entrypoint: /opt/keycloak/data/import/entrypoint.sh
