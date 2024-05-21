@@ -1,4 +1,4 @@
 services:
-  keycloak:
+  keycloak-pg:
     volumes:
       - ./themes:/opt/keycloak/themes
