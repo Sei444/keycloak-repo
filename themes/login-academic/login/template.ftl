@@ -30,6 +30,27 @@
     <#else>
             <link rel="icon" href="${url.resourcesPath}/img/favicon.ico" />
     </#if>
+
+    <style>
+      body {
+        background-image: url('${url.resourcesPath}/img/background_logo.gif');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        animation: animatedBackground 10s infinite alternate;
+      }
+
+      @keyframes animatedBackground {
+        from {
+          opacity: 0.6;
+          transform: scale(1.0);
+        }
+        to {
+          opacity: 0.6;
+          transform: scale(1.1);
+        }
+      }
+    </style>
     
 </head>
 

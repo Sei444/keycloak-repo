@@ -15,6 +15,13 @@
           </v-alert>
         </#if>
 
+        <v-img
+                src="${url.resourcesUrl}/img/academic-management-logo.png"
+                aspect-ratio="1"
+                max-width="500"
+                max-height="200"
+        ></v-img>
+
         <v-card class="elevation-3">
           <v-card-text>
             <#nested "text">
@@ -25,12 +32,7 @@
             </a>
           </v-card-text>
         </v-card>
-        <v-img
-                src="${url.resourcesPath}/img/academic-management-logo.png"
-                aspect-ratio="1"
-                max-width="500"
-                max-height="200"
-        /></v-img>
+
       </v-main>
     </v-app>
   </div>
