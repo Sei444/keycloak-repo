@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc9a69c7-78e2-4d67-ac75-6b8beb8314de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/docker-compose.override.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.override.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.override.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/1/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/1/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16387" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16387" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16400" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16400" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16419" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16419" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16422" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16422" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16486" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16486" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16521" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16521" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16535" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16535" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16758" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16758" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16793" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16793" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16919" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16919" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/5/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/5/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/global/pg_control" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/global/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/global/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/pg_stat/pgstat.stat" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/pg_stat/pgstat.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/pg_wal/000000010000000000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/pg_xact/0000" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/pg_xact/0000" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716307297340</updated>
-      <workItem from="1716307303751" duration="1651000" />
+      <workItem from="1716307303751" duration="2588000" />
     </task>
     <servers />
   </component>
