@@ -28,7 +28,7 @@ services:
       - POSTGRES_USER=root
       - POSTGRES_PASSWORD=toor
     ports:
-      - "5432:5432"
+      - "5433:5433"
     volumes:
       - ./pg-keycloak-data:/var/lib/postgresql/data
     networks:

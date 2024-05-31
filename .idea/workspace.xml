@@ -6,128 +6,52 @@
   <component name="ChangeListManager">
     <list default="true" id="dc9a69c7-78e2-4d67-ac75-6b8beb8314de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/1/pg_internal.init" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/1259" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/1259" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16387" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16387" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16400" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16400" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16419" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16419" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16422" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16422" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16435" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16435" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16435_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16435_fsm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16441" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16441" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16458" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16458" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16466" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16466" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16469" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16469" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16476" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16476" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16486" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16486" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16489" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16489" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16500" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16500" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16518" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16518" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16521" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16521" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16535" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16535" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16548" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16548" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16558" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16558" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16562" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16562" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16564" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16564" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16566" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16566" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16568" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16568" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16570" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16570" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16572" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16572" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16574" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16574" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16578" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16578" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16582" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16582" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16586" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16586" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16594" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16594" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16758" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16758" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16772" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16772" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16793" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16793" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16799" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16799" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16799_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16799_fsm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16827" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16827" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16836" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/16836" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17024" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17029" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17029" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17034" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17034" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17039" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17039" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17063" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17063" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17065" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17065" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17067" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17067" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17069" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17069" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17119" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17119" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17143" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17143" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17157" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17157" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17267" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17267" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17281" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17281" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17286" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17286" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17295" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17295" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17324" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17324" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17336" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17336" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17071" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17071" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17344" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17344" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17345" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17345" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17351" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17351" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17517" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17517" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17517_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17517_fsm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17522" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17522" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17545" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17545" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17547" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17547" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17352" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17352" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17586" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17586" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17592" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17592" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17612" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17612" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17613" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17613" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17614" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17614" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17615" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17615" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17620" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17620" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17621" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17621" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17622" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17622" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17623" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17623" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17630" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17630" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17631" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17631" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17632" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17632" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17634" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17634" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17635" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17635" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17639" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17639" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17640" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17640" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17641" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17641" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17642" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17642" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17648" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17648" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17654" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17654" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17686" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17686" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17707" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17707" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17709" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17709" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17711" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17711" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17713" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17713" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17740" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17740" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17767" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17767" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17771" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17771" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17783" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17783" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17787" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17787" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17814" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17814" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17815" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17815" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17816" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17816" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17817" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17817" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17818" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17818" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17819" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17819" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17820" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17820" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17821" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17821" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17822" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17822" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17889" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17889" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17915" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17915" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17938" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/17938" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2619" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2619" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2619_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2619_fsm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2619_vm" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2619_vm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2696" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2696" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2840" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2840" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2840_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2840_fsm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2841" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/2841" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/16384/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/base/16384/pg_internal.init" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg-keycloak-data/base/5/pg_internal.init" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/global/pg_control" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/global/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/global/pg_internal.init" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/pg_stat/pgstat.stat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/pg_wal/000000010000000000000001" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg-keycloak-data/pg_xact/0000" beforeDir="false" afterPath="$PROJECT_DIR$/pg-keycloak-data/pg_xact/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/login-academic/email/html/password-reset.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/login-academic/email/html/password-reset.ftl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/login-academic/email/html/template.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/login-academic/email/html/template.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/login-academic/email/messages/messages_es.properties" beforeDir="false" afterPath="$PROJECT_DIR$/themes/login-academic/email/messages/messages_es.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/login-academic/login/resources/img/backgroud_logo.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/login-academic/login/template.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/login-academic/login/template.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/login-academic/login/theme.properties" beforeDir="false" afterPath="$PROJECT_DIR$/themes/login-academic/login/theme.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,22 +73,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Proyectos/Proyecto Final/Proyecto_diplomado/keycloak-repository&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;web.server&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Proyectos/Proyecto Final/Proyecto_diplomado/academic-management-ui-feature-keycloak-integration/academic-management-ui-feature-keycloak-integration",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "web.server",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -175,7 +99,10 @@
       <updated>1716307297340</updated>
       <workItem from="1716307303751" duration="7866000" />
       <workItem from="1716316737127" duration="7000" />
-      <workItem from="1716316768513" duration="6366000" />
+      <workItem from="1716316768513" duration="13861000" />
+      <workItem from="1716899673903" duration="22000" />
+      <workItem from="1716939948496" duration="663000" />
+      <workItem from="1717100345419" duration="12577000" />
     </task>
     <servers />
   </component>

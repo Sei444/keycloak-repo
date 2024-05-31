@@ -3,35 +3,57 @@
   <head>
     <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet"/>
     <link href="https://cdn.jsdelivr.net/npm/vuetify@3.0.5/dist/vuetify.min.css" rel="stylesheet"/>
+
+    <style>
+      .centered-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        max-width: 700px;
+        margin: 0 auto;
+      }
+      .red-button {
+        background-color: red !important;
+        color: white !important;
+      }
+    </style>
   </head>
   <body>
   <div id="app">
     <v-app>
-      <v-main>
-        <#if realmName??>
-          <v-alert color="success" icon="mdi-check-circle">
-            <v-alert-title><#nested 'emailTitle1'></v-alert-title>
-            <span><#nested 'emailTitle2'></span>
-          </v-alert>
-        </#if>
-
+      <v-container class="d-flex justify-center">
         <v-img
                 src="${url.resourcesUrl}/img/academic-management-logo.png"
                 aspect-ratio="1"
-                max-width="500"
+                max-width="800"
                 max-height="200"
         ></v-img>
+      </v-container>
+      <v-main>
+        <div class="centered-content">
+          <#if realmName??>
+            <v-alert color="success" icon="mdi-check-circle">
+              <v-alert-title><#nested 'emailTitle2'></v-alert-title>
+              <!-- <span><#nested 'emailTitle2'></span> -->
+            </v-alert>
+          </#if>
 
-        <v-card class="elevation-3">
-          <v-card-text>
-            <#nested "text">
-            <a href="${link}">
-              <v-btn prepend-icon="mdi-check-circle">
-                <#nested "linkText">
-              </v-btn>
-            </a>
-          </v-card-text>
-        </v-card>
+          <v-card class="elevation-3">
+            <v-card-text>
+              <#nested "text">
+              <a href="${link}">
+                <v-btn class="red-button" prepend-icon="mdi-check-circle">
+                  <#nested "linkText">
+                </v-btn>
+              </a>
+              <div class="additional-message">
+                <#nested "customMessage">
+              </div>
+            </v-card-text>
+          </v-card>
+        </div>
 
       </v-main>
     </v-app>

@@ -12,4 +12,7 @@
     <#if section = "emailTitle2">
         ${msg('emailResetPasswordTitle2')?no_esc}
     </#if>
+    <#if section = "customMessage">
+        ${msg('customMessage')?no_esc}
+    </#if>
 </@layout.htmlEmailLayout>
